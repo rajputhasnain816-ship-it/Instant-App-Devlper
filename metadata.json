@@ -1,0 +1,6 @@
+{
+  "name": "ResumePro AI",
+  "description": "Create high-impact, ATS-optimized, and AI-polished resumes and cover letters in minutes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
